@@ -1,0 +1,15 @@
+sudo: false
+
+language: python
+
+python:
+  - "3.4"
+
+install:
+  - pip3 install codecov
+
+script:
+  - coverage run test.py
+
+notifications:
+  email: false
