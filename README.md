@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/abranhe/username_cli/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abranhe/username_cli.svg" /></a>
+	<a href="https://github.com/abranhe/username_cli/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abranhe/username-cli.svg" /></a>
 	<a href="https://github.com/abranhe"><img src="https://abranhe.com/badge.svg"></a>
 	<a href="https://cash.me/$abranhe"><img src="https://cdn.abraham.gq/badges/cash-me.svg"></a>
 	<a href="https://www.patreon.com/abranhe"><img src="https://cdn.abraham.gq/badges/patreon.svg" /></a>
@@ -43,4 +43,4 @@ abraham
 
 # License
 
-[MIT](https://github.com/abranhe/username/blob/master/LICENSE) License © [Carlos Abraham](https://github.com/abranhe)
+[MIT](https://github.com/abranhe/username-cli/blob/master/LICENSE) License © [Carlos Abraham](https://github.com/abranhe)
